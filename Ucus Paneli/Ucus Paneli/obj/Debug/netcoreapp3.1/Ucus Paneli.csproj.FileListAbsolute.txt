@@ -1,0 +1,32 @@
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.exe
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.deps.json
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.runtimeconfig.json
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.runtimeconfig.dev.json
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.dll
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.pdb
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus_Paneli.Form1.resources
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.AssemblyInfo.cs
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.dll
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.pdb
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.genruntimeconfig.cache
+C:\Users\Emre\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus_Paneli.Properties.Resources.resources
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.exe
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.deps.json
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.runtimeconfig.json
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.runtimeconfig.dev.json
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.dll
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\bin\Debug\netcoreapp3.1\Ucus Paneli.pdb
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csprojAssemblyReference.cache
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus_Paneli.Form1.resources
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus_Paneli.Properties.Resources.resources
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.AssemblyInfoInputs.cache
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.AssemblyInfo.cs
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.dll
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.pdb
+C:\Users\Okan\Desktop\c#proje\Ucus Paneli\Ucus Paneli\obj\Debug\netcoreapp3.1\Ucus Paneli.genruntimeconfig.cache
